@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >    
+
+    <!-- This layout not currently used -->
+    
+    <TextView
+        android:id="@+id/uuid_list_row"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dip"
+        android:paddingTop="12dip"
+        android:textColor="?android:attr/textColorSecondary"
+        android:textSize="12sp" 
+        android:background="@color/background"
+        android:text="00000000-0000-0000-0000-000000000000"/>
+
+</LinearLayout>

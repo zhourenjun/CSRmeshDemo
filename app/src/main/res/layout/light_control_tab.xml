@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lightTab"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+     
+	<Spinner
+        android:id="@+id/spinnerLight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"/>
+	
+	<RelativeLayout
+	    android:id="@+id/colourChange"
+	    android:layout_width="wrap_content"
+	    android:layout_height="0dp"
+	    android:layout_weight="1" 
+	    android:layout_marginLeft="2dp"
+	    android:layout_marginRight="2dp"
+	    android:layout_marginTop="5dp">
+    
+	<com.csr.csrmeshdemo.ui.HSVCircle
+	    android:id="@+id/colorWheel"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content" />
+
+	<Switch
+	    android:id="@+id/powerSwitch"
+	    android:layout_below="@+id/colorWheel"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:layout_centerHorizontal="true" />
+	
+	</RelativeLayout>	
+	
+	 <SeekBar
+        android:id="@+id/seekBrightness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        android:max="99"
+        android:paddingBottom="5dp"
+        android:progress="99" />
+
+     
+
+</LinearLayout>

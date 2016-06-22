@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_config.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\menu\\menu_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\config_popup_group.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\menu\\config_popup_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\config_popup_device.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\menu\\config_popup_device.xml"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scan_list_row.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\scan_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_list_row.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\group_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_assignment.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\group_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\security_settings_fragment.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\security_settings_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_fragment.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\about_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\temperature_fragment.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\temperature_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notification.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\association_list_row.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\association_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\association_fragment.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\association_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uuid_list_row.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\uuid_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\light_control_tab.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\light_control_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan_results.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\layout\\activity_scan_results.xml"
+    }
+]

@@ -1,0 +1,107 @@
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/network_association"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:gravity="top"
+    >
+
+        <LinearLayout style="@style/LoginFormContainer"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:orientation="vertical">
+
+            <EditText
+                    android:id="@+id/network_pass"
+                    android:singleLine="true"
+                    android:maxLines="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:hint="@string/network_phrase"
+                    android:imeActionLabel="OK"
+                    android:imeActionId="@+id/login"
+                    android:imeOptions="actionUnspecified" />
+
+			<RelativeLayout
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:paddingLeft="10dp"
+              android:orientation="horizontal" >
+
+    		<TextView
+	            android:id="@+id/label"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textSize="17sp"
+	            android:layout_gravity="left|center_vertical|center_horizontal"
+	            android:text="@string/authorise"/>
+
+    		<CheckBox
+            	android:id="@+id/checkbox"
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+            	android:enabled="true"
+            	android:text=""
+            	android:focusable="false"
+            	android:layout_alignParentRight="true"/>
+    		
+           </RelativeLayout>
+           
+			<LinearLayout 
+			    android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp">
+			    <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textSize="17sp"
+		            android:layout_gravity="left|center_vertical|center_horizontal"
+		            android:text="@string/ttl"/>
+			    
+			    <EditText
+                    android:id="@+id/ttl"
+                    android:singleLine="true"
+                    android:maxLines="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:imeActionLabel="OK"
+                    android:imeOptions="actionUnspecified" />
+			    
+			</LinearLayout>
+           
+			<LinearLayout 
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal">
+                <Button android:id="@+id/network_assocoiation_ok"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ok"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"/>
+            </LinearLayout>
+        </LinearLayout>
+        
+        <TextView
+	            android:id="@+id/label1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textSize="17sp"
+	            android:layout_gravity="center_vertical|center_horizontal"
+	            android:text="@string/bridge_device"/>
+        <TextView
+	            android:id="@+id/textBridgeAddress"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textSize="17sp"	            
+	            android:layout_gravity="center_vertical|center_horizontal"
+	            />
+</LinearLayout>

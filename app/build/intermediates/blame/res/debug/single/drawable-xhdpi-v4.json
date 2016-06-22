@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\button_scan_disabled.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\button_scan_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_navigation_expand_less.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigation_expand_less.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scan_button_style.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\scan_button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\button_scan_normal.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\button_scan_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_navigation_expand_more.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigation_expand_more.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_alert.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\button_scan_pressed.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\button_scan_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_update.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_update.png"
+    }
+]

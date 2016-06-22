@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CSRmesh</string>
+    <string name="scan_connect">扫描并连接</string>
+    <string name="qr_code">二维码</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="ok">OK</string>
+    <string name="cancel">取消</string>
+    <string name="apply">应用</string>
+    <string name="add_group">添加组</string>
+    <string name="menu_rename">重命名</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_info">固件信息</string>
+    <string name="menu_models_supported">模型支持</string>
+    <string name="menu_get_data">请求数据</string>
+    <string name="menu_device_info">设备信息</string>
+	<string name="network_phrase">输入密码</string>
+	<string name="authorise">授权的设备</string>
+	<string name="ttl">生存时间 (TTL):</string>
+	<string name="key_required">输入网络密钥按ok后继续</string>
+	<string name="unknown">未知</string>
+	<string name="associating">关联设备</string>
+	<string name="association_fail">设备关联失败</string>
+	<string name="short_code_prompt">输入短码</string>
+	<string name="short_code_match_fail">短码匹配UUID失败</string>
+	<string name="shortcode_invalid">无效短码</string>
+	<string name="enter_new_name">输入新的名字</string>
+	<string name="group_update">发送组更新</string>
+	<string name="confirm_remove">确定删除设备?</string>
+	<string name="confirm_remove_local">确定不需要此设备. 一定要删除?</string>
+	<string name="removing">正在删除设备</string>
+	<string name="getting_data">Getting data...</string>
+	<string name="enter_group_name">输入组名</string>
+	<string name="waiting_for_response">等待响应</string>
+	<string name="firmware_version_is">固件版本是</string>
+	<string name="firmware_get_fail">获取固件版本失败</string>
+	<string name="configuration_get_fail">获取配置信息失败</string>
+	<string name="bluetooth_not_enabled">蓝牙未启用</string>
+	<string name="bluetooth_enabled">蓝牙可用</string>
+	<string name="bluetooth_disabled">蓝牙禁用</string>
+	<string name="connecting">连接中…</string>
+	<string name="all_lights">所有灯</string>
+	<string name="group">组</string>
+	<string name="groups">所有组</string>
+	<string name="disconnected">桥设备连接断开</string>
+	<string name="light">灯</string>
+	<string name="switch_">开关</string>
+	<string name="sensor">传感器</string>
+	<string name="actuator">执行器</string>
+	<string name="group_update_ok">组更新完成</string>
+	<string name="group_update_with_problems">组更新出了点问题.</string>
+	<string name="group_query_fail">未能查询到支持组的数量</string>
+	<string name="group_no_changes">没有更改, 没有什么发送</string>
+	<string name="group_max_fail">组更新失败. 设备支持的最大</string>
+	<string name="group_timeout">组更新失败: 设备响应超时.</string>
+	<string name="connect_faiL">连接失败</string>
+	<string name="added">更多的</string>
+	<string name="qr_to_uuid_fail">未能从二维码读取UUID</string>
+	<string name="bridge_device">连接桥设备</string>
+	<string name="not_support_any_model">没有模型支持</string>
+	<string name="share_config">共享配置文件</string>
+	<string name="load_config">加载配置文件</string>
+	<string name="request_config">请求配置</string>
+	<string name="send_to">发送文件到</string>
+	<string name="all_thermostats">所有恒温器</string>
+	<string name="desired_temperature">设置色温 (°C)</string>
+	<string name="no_actuator_associated">没有执行关联</string>
+	<string name="association_notify">正在关联设备.</string>
+    <string name="tap_to_cancel_association">点击取消关联.</string>
+    <string name="association_progress">关联进度: </string>
+	<string name="association_sort">首先展示最近设备.</string>
+    <string name="association_cancelled">关联取消了!</string>
+    <string name="association_failed">关联失败!</string>
+	<string name="current_temperature">当前色温 (°C)</string>
+	<string name="unknown_temperature_value">-</string>
+	<string name="desired_temperature_range_value" formatted="false">设置的色温值必须在% s1和s2 %度之间.</string>
+	<string name="wrong_desired_temperature_value">设置的色温值必须是一个小数格式</string>
+	<string name="type_temperature_desired">设置色温类型:</string>
+	<string name="user_action_req">需要用户操作!</string>
+    <string name="need_device_group">设备需要分组.</string>
+	<string name="error_opening_file">打开文件失败</string>
+	<string name="import_config_complete">导入配置完成!</string>
+	<string name="import_config_error">导入配置错误!</string>
+    <string name="share_configuration">我想和你分享我的mesh配置.</string>
+    <string name="error_share_configuration">无法共享配置.</string>
+    <string name="battery_level">电池剩余电量 </string>
+    <string name="battery_state">电池状态</string>
+    <string name="attraction_enabled">吸引了几秒钟.</string>
+	<string name="invalid_file_extension">文件扩展名无效，只接受json文件.</string>
+	<string name="confirm_replacing_db">数据库将被覆盖,会失去当前设备的信息. 你想继续吗?</string>
+
+	<string-array name="screen_names">
+		<item>灯开关控制</item>
+		<item>色温控制</item>
+		<item>设备关联</item>
+		<item>配置</item>
+		<item>安全设置</item>
+		<item>关于</item>
+	</string-array>
+
+	<string-array name="battery_states">
+		<item>电池供电设备</item>
+		<item>电池充电</item>
+		<item>设备外部动力</item>
+		<item>电池所需服务 </item>
+		<item>电池需要更换</item>
+	</string-array>
+</resources>

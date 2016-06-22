@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CSRmesh</string>
+    <string name="scan_connect">Scan and Connect</string>
+    <string name="qr_code">QR Code</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string> 
+    <string name="apply">Apply</string>    
+    <string name="add_group">Add Group</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_info">Firmware Info</string>
+    <string name="menu_models_supported">Models supported</string>
+    <string name="menu_get_data">Request Data</string>
+    <string name="menu_device_info">Device info</string>
+	<string name="network_phrase">Enter password</string>
+	<string name="authorise">Authorise Devices</string>
+	<string name="ttl">Time to live (TTL):</string>
+	<string name="key_required">Enter a network phrase and press OK to continue</string>
+	<string name="unknown">unknown</string>
+	<string name="associating">Associating device</string>
+	<string name="association_fail">Device association failed</string>	
+	<string name="short_code_prompt">Enter short code</string>
+	<string name="short_code_match_fail">Short code doesn\'t match UUID</string>
+	<string name="shortcode_invalid">Invalid short code</string>
+	<string name="enter_new_name">Enter new name</string>
+	<string name="group_update">Sending group update</string>
+	<string name="confirm_remove">Remove device. Are you sure?</string>
+	<string name="confirm_remove_local">Confirmation from device was not seen. Remove device locally anyway?</string>
+	<string name="removing">Removing device</string>
+	<string name="getting_data">Getting data...</string>
+	<string name="enter_group_name">Enter name for group</string>
+	<string name="waiting_for_response">Waiting for response</string>
+	<string name="firmware_version_is">Firmware version is</string>
+	<string name="firmware_get_fail">Failed to get firmware version</string>
+	<string name="configuration_get_fail">Failed to get configuration info</string>
+	<string name="bluetooth_not_enabled">Bluetooth not enabled</string>
+	<string name="bluetooth_enabled">Bluetooth enabled</string>
+	<string name="bluetooth_disabled">Bluetooth disabled</string>
+	<string name="connecting">Connecting…</string>
+	<string name="all_lights">All lights</string>
+	<string name="group">Group</string>
+	<string name="groups">groups</string>
+	<string name="disconnected">Disconnected from bridge device</string>
+	<string name="light">Light</string>
+	<string name="switch_">Switch</string>
+	<string name="sensor">Sensor</string>
+	<string name="actuator">Actuator</string>
+	<string name="group_update_ok">Groups updated OK</string>
+	<string name="group_update_with_problems">Groups updated with some problems.</string>
+	<string name="group_query_fail">Failed to query number of supported groups</string>
+	<string name="group_no_changes">No changes made, nothing sent</string>
+	<string name="group_max_fail">Group update FAILED. Device supports maximum of</string>
+	<string name="group_timeout">Group update FAILED: timed out waiting for response from device.</string>	
+	<string name="connect_faiL">Failed to connect</string>
+	<string name="added">added</string>
+	<string name="qr_to_uuid_fail">Failed to read UUID from QR code</string>
+	<string name="bridge_device">Connected Bridge Device</string>
+	<string name="not_support_any_model">No models supported</string>
+	<string name="share_config">Share configuration</string>
+	<string name="load_config">Load configuration</string>
+	<string name="request_config">Request configuration</string>
+	<string name="send_to">Send file to</string>
+	<string name="all_thermostats">All Thermostats</string>
+	<string name="desired_temperature">Desired temperature (°C)</string>
+	<string name="no_actuator_associated">There are no actuators associated. Please associate one first.</string>
+	<string name="association_notify">A device is currently being associated.</string>
+    <string name="tap_to_cancel_association">Tap here to cancel the association.</string>
+    <string name="association_progress">Association in progress: </string>
+	<string name="association_sort">Show closest devices first.</string>
+    <string name="association_cancelled">Association cancelled!</string>
+    <string name="association_failed">Association has failed!</string>
+	<string name="current_temperature">Current temperature (°C)</string>
+	<string name="unknown_temperature_value">-</string>
+	<string name="desired_temperature_range_value" formatted="false">Desired temperature value must be between %s1 and %s2 degrees.</string>
+	<string name="wrong_desired_temperature_value">Desired temperature value must be a decimal number format</string>
+	<string name="type_temperature_desired">Type the temperature desired:</string>
+	<string name="user_action_req">A user action is required!</string>
+    <string name="need_device_group">A device needs to be grouped.</string>
+	<string name="error_opening_file">Error trying to open a file</string>
+	<string name="import_config_complete">Import configuration complete!</string>
+	<string name="import_config_error">Error importing configuration!</string>
+    <string name="share_configuration">I would like to share my mesh configuration with you.</string>
+    <string name="error_share_configuration">It wasn\'t possible to share the configuration.</string>
+    <string name="battery_level">Battery level</string>
+    <string name="battery_state">Battery state</string>
+    <string name="attraction_enabled">Attaction enabled for few seconds.</string>
+	<string name="invalid_file_extension">File extension not valid. Only json files are accepted.</string>
+	<string name="confirm_replacing_db">Your database will be overwritten and you will lose information about current devices. Do you want to continue?</string>
+
+	<string-array name="screen_names">
+		<item>Light Control</item>
+		<item>Temperature Control</item>
+		<item>Device Association</item>
+		<item>Configuration</item>
+		<item>Security Settings</item>
+		<item>About</item>
+	</string-array>
+
+	<string-array name="battery_states">
+		<item>Battery is powering device</item>
+		<item>Battery is charging</item>
+		<item>Device is externally powered</item>
+		<item>Service is required for battery </item>
+		<item>Battery needs replacement</item>
+	</string-array>
+</resources>

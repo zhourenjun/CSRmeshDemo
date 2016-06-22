@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_notification.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable\\background_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable\\border.xml"
+    }
+]

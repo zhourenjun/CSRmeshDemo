@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_navigation_expand_more.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_navigation_expand_more.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_navigation_expand_less.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_navigation_expand_less.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_update.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_update.png"
+    },
+    {
+        "merged": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alert.png",
+        "source": "C:\\Users\\zrj\\Desktop\\CSRmeshDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_alert.png"
+    }
+]

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"    
+    android:orientation="horizontal"
+    android:background="@color/associate_row_background"
+    android:padding="12dip"
+    android:layout_marginBottom="2dp" >
+      
+    <!-- UUID -->
+    <TextView
+        android:id="@+id/ass_uuid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/associate_uuid"
+        android:typeface="sans"
+        android:textSize="12sp"
+        android:textStyle="bold" />     
+ 
+    <!-- Bottom right: RSSI -->
+
+    <TextView
+        android:id="@+id/ass_rssi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/ass_uuid"
+        android:gravity="right"        
+        android:textColor="@color/rssi"
+        android:textIsSelectable="false"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+    
+    <!-- Bottom left: apperance text-->
+        <TextView
+		android:id="@+id/apperance_text"
+		android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ass_uuid"
+		android:textSize="12sp"
+        android:textStyle="bold"/>
+        
+    
+ 
+</RelativeLayout>
